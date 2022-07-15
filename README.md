@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshit5200
 - 👀 I’m interested in Coding and Development
-- 🌱 I’m currently pursuing my Bachelor of Technology in Computer Science Engineering
+- 🌱 I’m currently working as System Engineer @ Infosys Ltd
 - 💞️ I’m looking to collaborate on new projects
 - 📫 { Instagram : "https://www.instagram.com/harshitawasthiofficial/", Linkedin : "https://www.linkedin.com/in/harshit-awasthi-39310a152/", facebook: "https://www.facebook.com/harshit.damon5200/"}
 
