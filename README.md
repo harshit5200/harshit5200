@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshit5200
 - 👀 I’m interested in Coding and Development
-- 🌱 I’m currently working as System Engineer @ Infosys Ltd
+- 🌱 I’m currently working as Software Engineer @ Java RND Pvt Ltd
 - 💞️ I’m looking to collaborate on new projects
 - 📫 {Linkedin : "https://www.linkedin.com/in/harshit-awasthi-39310a152/"}
 
